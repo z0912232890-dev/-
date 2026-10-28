@@ -1,0 +1,6 @@
+{
+  "name": "萌寵森活 PAWPAL",
+  "description": "專為愛毛孩家庭打造的天然寵物生活商城與專屬會員俱樂部，提供優質毛孩食品、生活選品、毛孩健康履歷與VIP專屬禮遇。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
